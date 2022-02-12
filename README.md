@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Fintech-Case-Studies
 
 # Webull - Power to the people 
@@ -7,7 +6,7 @@
 
 ![webull](images/Webull.jpg)
 
-## Background & Competitors =======
+## Background & Competitors
 
 1. WeBull is a private corporation headquartered in New York, NY. It is an electronic trading platform for stocks, ETFs, and crypto.Wang Anquan founded the company in 2016. He had worked for Alibaba. It is owned by Fumi Technology, a Chinese holding company. Competitors include Robinhood, Alpaca Trading, SoFi Invest, and moomoo.
 2. Brings trading to the average consumer. Followed behind Coinbase and Robinhood into the mobile app environment. WeBull offered more trading options beyond what those two had originally offered so that consumers had a larger variety of choices. They use new technology to revolutionize inefficiencies, eliminate middle men, and better serve consumers.
