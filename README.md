@@ -16,6 +16,6 @@
 
 # Prognosis
 
-Webull has a bright outlook. They are currently a a private company but have the option to go public to raise further capital. With the evolution of the cypto space they will havemore opportunities to branch out if they so choose.   
+Webull has a bright outlook. They are currently a a private company but have the option to go public to raise further capital. With the evolution of the cypto space they will have more opportunities to branch out if they so choose.   
 
 
